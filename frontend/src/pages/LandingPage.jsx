@@ -120,14 +120,14 @@ export default function LandingPage() {
               justifyContent:'center', gap:'1rem', marginBottom:'1.2rem' }}>
               <div style={{ width:40, height:1, background:'linear-gradient(90deg,transparent,#B8922A)' }} />
               <span style={{ fontSize:'0.62rem', letterSpacing:'0.28em', textTransform:'uppercase',
-                color:'#8B6F3E', fontFamily:"'Inter',sans-serif" }}>Est. 2026 · Amravati, India</span>
+                color:'#8B6F3E', fontFamily:"'Inter',sans-serif" }}>Est. 2026  India</span>
               <div style={{ width:40, height:1, background:'linear-gradient(90deg,#B8922A,transparent)' }} />
             </div>
 
             <h1 className="lp-brand lp-d2" style={{
               fontSize:'clamp(2rem,6vw,4.8rem)', fontWeight:700,
               letterSpacing:'0.18em', margin:0, lineHeight:1.1 }}>
-              TAILOREDFITTING
+              TailorEdFitting
             </h1>
 
             <p className="lp-d3" style={{ fontFamily:"'Cormorant Garamond',serif",

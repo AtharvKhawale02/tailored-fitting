@@ -184,7 +184,7 @@ export default function MenPage() {
             fontFamily:"'Cinzel',serif",
             fontSize:'clamp(0.9rem,2.5vw,1.2rem)',
             letterSpacing:'0.22em', fontWeight:700 }}>
-            TAILOREDFITTING
+            TailorEdFitting
           </span>
 
           <span className="mp-bc" style={{ fontSize:'0.65rem', letterSpacing:'0.18em',
